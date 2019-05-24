@@ -1,3 +1,0 @@
-  sudo chown -R me:me /etc/ansible/
-  rm /etc/ansible/hosts
-  ln ~/.uni/my./hosts /etc/ansible/
