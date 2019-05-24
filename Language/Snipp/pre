@@ -1,5 +1,0 @@
-pre(){
-  cd ~/.uni/
-  [[ -d my. ]] || git clone git@github.com:TwinFlames/my..git
-  ./in
-} 

@@ -1,0 +1,11 @@
+# read
+pre(){
+  cd ~/.uni/
+  [[ -d my. ]] || git clone git@github.com:TwinFlames/my..git && ./my./in
+  cd -
+}
+
+# compact
+pre(){  cd ~/.uni/ ; [[ -d my. ]] || git clone git@github.com:TwinFlames/my..git && ./my./in ; cd - ;}
+
+pre
