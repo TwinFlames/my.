@@ -1,0 +1,11 @@
+[stor-fs]
+192.168.122.168
+
+[stor-node]
+192.168.122.167
+
+[stor-fs:vars]
+ansible_user=root
+
+[me]
+localhost   ansible_connection=local    ansible_become_password=u
