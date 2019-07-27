@@ -1,0 +1,4 @@
+Nanopool-url: https://xmr.nanopool.org/account/47mTZp2hWHiHRRVJhZoP1rWuwycV4sg5DBAxM2oUCFbFe65bEj1UVeuU5HPqYNztTxLGRzHL9rnkDh9bT5ooAvPDCPGaUy4
+
+address:  
+47mTZp2hWHiHRRVJhZoP1rWuwycV4sg5DBAxM2oUCFbFe65bEj1UVeuU5HPqYNztTxLGRzHL9rnkDh9bT5ooAvPDCPGaUy4
